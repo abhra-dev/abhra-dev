@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi Folks!!
+
+I'm a Senior Software Engineer, experienced in Web development.
+
+Here I have showcased my personal projects mostly developed using JavaScript.
 
 <!--
 **abhra-dev/abhra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
